@@ -1,6 +1,3 @@
 # Quotes MVVM Application
 
-
- // ViewModel
-    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1")
-    implementation 'com.google.code.gson:gson:2.10.1'
+## I don't know why, On Cloning this application was throwing error so i created another one you can find that [here.](https://github.com/ArjunGupta08/Quotes-MvvM)
